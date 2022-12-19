@@ -7,7 +7,7 @@ MATR script commissioned by Richard Harris.
 - Python 3
 - Python libraries numpy, pandas, and scipy.
 
-### Behavior
+### Purpose and behavior
 
 Public data often includes suppressed entries. For the purpose of visualization and analysis, it can be useful to
 approximate plausible values for such entries.
@@ -59,4 +59,5 @@ Given an input table and guess table, the script generates an output table such 
 
    b. by double-clicking the script ```matr.py``` in your file explorer.
 4. a new file ```output.xlsx``` will appear in the same directory as the script. 
+You may choose to run the script on the supplied inputs and verify that the generated ```output.xlsx``` is identical to ```outputcheck.xlsx```
  
