@@ -5,7 +5,7 @@ MATR script wirtten by David Kutner, commissioned by Richard Harris, both of Dur
 ### Prerequisites
 
 - Python 3
-- Python libraries numpy, pandas, and scipy.
+- Python libraries numpy, pandas, openpyxl and scipy.
 
 ### Purpose and behavior
 
