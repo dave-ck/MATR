@@ -1,3 +1,4 @@
+# MATR script wirtten by David Kutner, commissioned by Richard Harris, both of Durham University. Free to use with attribution.
 import pandas as pd
 import numpy as np
 from scipy.optimize import linprog
