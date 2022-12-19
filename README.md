@@ -1,6 +1,6 @@
 # MATR
 
-MATR script commissioned by Richard Harris.
+MATR script wirtten by David Kutner, commissioned by Richard Harris, both of Durham University. Free to use with attribution.
 
 ### Prerequisites
 
